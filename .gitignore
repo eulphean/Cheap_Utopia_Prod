@@ -19,6 +19,9 @@
 !/Content/**/*.uasset
 !/Content/**/*.umap
 
+# Fab marketplace downloads - re-downloadable, don't track.
+/Content/Fab/
+
 # Allow any files from /RawContent dir.
 # Any file in /RawContent dir will be managed by git lfs.
 !/StripMall/**/*
