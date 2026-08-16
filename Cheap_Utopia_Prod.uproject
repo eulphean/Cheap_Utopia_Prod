@@ -18,31 +18,26 @@
 		{
 			"Name": "PCGExtendedToolkit",
 			"Enabled": true,
-			"Description": "PCG Extended Toolkit (PCGEx) v0.77.5 - free on Fab. REQUIRED: the mall PCG graphs use PCGEx nodes. Do not open this project without it - saving a PCG graph while PCGEx is missing permanently strips those nodes. Docs: https://pcgex.gitbook.io/pcgex",
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/9fe8e523be7248ecbc0c5c1aed376f96"
+			"Description": "PCG Extended Toolkit (PCGEx) v0.77.5 - free on Fab, search 'PCG Extended Toolkit'. REQUIRED: the mall PCG graphs use PCGEx nodes. Do not open this project without it - saving a PCG graph while PCGEx is missing permanently strips those nodes. Docs: https://pcgex.gitbook.io/pcgex"
 		},
 		{
 			"Name": "MCPClientToolset",
 			"Enabled": true,
-			"Optional": true,
 			"Description": "Bundled with UE 5.8 under Engine/Plugins/Experimental (disabled by default) - nothing to download, this entry enables it. Editor-side Claude/MCP tooling only; no content depends on it."
 		},
 		{
 			"Name": "ModelContextProtocol",
 			"Enabled": true,
-			"Optional": true,
 			"Description": "Bundled with UE 5.8 under Engine/Plugins/Experimental (disabled by default) - nothing to download, this entry enables it. Editor-side Claude/MCP tooling only; no content depends on it."
 		},
 		{
 			"Name": "PCGToolset",
 			"Enabled": true,
-			"Optional": true,
 			"Description": "Bundled with UE 5.8 under Engine/Plugins/Experimental (disabled by default) - nothing to download, this entry enables it. Editor-side Claude/MCP tooling only; no content depends on it."
 		},
 		{
 			"Name": "PCGPrimitives",
 			"Enabled": true,
-			"Optional": true,
 			"Description": "Bundled with UE 5.8 under Engine/Plugins/Experimental (disabled by default) - nothing to download, this entry enables it. Editor-side Claude/MCP tooling only; no content depends on it."
 		}
 	]
