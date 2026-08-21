@@ -39,6 +39,10 @@
 			"Name": "PCGPrimitives",
 			"Enabled": true,
 			"Description": "Bundled with UE 5.8 under Engine/Plugins/Experimental (disabled by default) - nothing to download, this entry enables it. Editor-side Claude/MCP tooling only; no content depends on it."
+		},
+		{
+			"Name": "LandscapePatch",
+			"Enabled": true
 		}
 	]
 }
