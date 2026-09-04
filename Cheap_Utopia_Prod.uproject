@@ -43,6 +43,10 @@
 		{
 			"Name": "LandscapePatch",
 			"Enabled": true
+		},
+		{
+			"Name": "EditorToolset",
+			"Enabled": true
 		}
 	]
 }
