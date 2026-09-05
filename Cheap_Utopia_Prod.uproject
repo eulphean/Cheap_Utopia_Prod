@@ -47,6 +47,10 @@
 		{
 			"Name": "EditorToolset",
 			"Enabled": true
+		},
+		{
+			"Name": "NiagaraToolsets",
+			"Enabled": true
 		}
 	]
 }
