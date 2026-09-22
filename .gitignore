@@ -20,7 +20,10 @@
 !/Content/**/*.umap
 
 # Fab marketplace downloads - re-downloadable, don't track.
-/Content/Fab/
+# QMF material functions are the exception: mall materials reference them.
+/Content/Fab/**
+!/Content/Fab/MaterialFunctions/
+!/Content/Fab/MaterialFunctions/QMF_*.uasset
 
 # Allow any files from /RawContent dir.
 # Any file in /RawContent dir will be managed by git lfs.
